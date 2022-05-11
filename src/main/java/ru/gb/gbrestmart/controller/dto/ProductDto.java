@@ -1,6 +1,7 @@
 package ru.gb.gbrestmart.controller.dto;
 
 import lombok.*;
+import org.springframework.stereotype.Component;
 import ru.gb.gbrestmart.entity.enums.Status;
 
 import javax.persistence.Column;
